@@ -1,0 +1,40 @@
+html {
+	box-sizing: border-box;
+	
+}
+
+header {
+	width: 100%;
+	background-color: #ff8080;
+	border: 5px solid red;
+}
+
+#main {
+	width: 57%;
+	float: left;
+	border: 5px solid yellow;
+	background-color: #ffffb3;
+	
+
+}
+
+
+aside {
+	width: 40%;
+	float: right;
+	background-color: #99e699;
+	border: 5px solid green;
+}
+
+footer {
+ 	width: 100%;
+ 	clear: both;
+ 	background-color: #9999ff;
+ 	border: 5px solid blue;
+}
+
+.placeholder {
+	height: 150px;
+	padding: 3%;
+
+}
