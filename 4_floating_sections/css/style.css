@@ -1,4 +1,4 @@
-html {
+body * {
 	box-sizing: border-box;
 	
 }
@@ -10,7 +10,7 @@ header {
 }
 
 #main {
-	width: 57%;
+	width: 60%;
 	float: left;
 	border: 5px solid yellow;
 	background-color: #ffffb3;
@@ -34,7 +34,7 @@ footer {
 }
 
 .placeholder {
-	height: 150px;
-	padding: 3%;
+	height: 200px;
+	padding: 20px;
 
 }
